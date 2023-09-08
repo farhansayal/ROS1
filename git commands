@@ -1,0 +1,12 @@
+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
+
+git remote set-url origin https://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@github.com/farhansayal/ROS2
+git push -u origin master
+
+git init
+
+git config --global user.name ""
+git config --global user.email ""
+
+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    # toke ROS1
+git remote set-url origin https://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@github.com/farhansayal/ROS2
